@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <NationalParks>
 
 	<NationalPark Rating="4.9">
@@ -15,7 +15,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.9">
+	<NationalPark>
 		<Name>Mount Rainier</Name>
 		<Phone>360-659-2211</Phone>
 		<Address NearestAirport ="Seattle-Tacoma">
@@ -27,7 +27,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.7">
+	<NationalPark>
 		<Name>Death Valley</Name>
 		<Phone>760-786-3200</Phone>
 		<Address NearestAirport ="Furnace Creek">
@@ -51,7 +51,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.7">
+	<NationalPark>
 		<Name>Biscayne</Name>
 		<Phone>786-335-3620</Phone>
 		<Address NearestAirport ="Miami International">
@@ -99,7 +99,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.8">
+	<NationalPark>
 		<Name>Yellowstone</Name>
 		<Phone>307-344-7381</Phone>
 		<Address NearestAirport="Bozeman Yellowstone International">
